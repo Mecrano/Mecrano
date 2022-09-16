@@ -39,7 +39,7 @@
 <h1 align="center">📊 Stats</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecrano&show_icons=true&layout=compact&theme=tokyonight&langs_count=6&hide=shell,jupyter%20notebook&count_private=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecrano&show_icons=true&layout=compact&theme=tokyonight&langs_count=6&hide=shell,jupyter%20notebook&count_private=true&card_width=445"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Mecrano&show_icons=true&theme=tokyonight&count_private=true" />
 </div>

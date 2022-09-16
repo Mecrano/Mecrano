@@ -28,7 +28,7 @@
 
 <p align="center">
     <samp>
-    A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+    A highly resourceful computer programmer and well-rounded IT professional with over six years of software development experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
     </samp>    
     <br />
 </p>

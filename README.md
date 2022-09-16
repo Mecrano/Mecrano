@@ -1,8 +1,8 @@
 ![Header](./images/github-header-image.png)
 
-- 🔭 I’m currently working on
-![Stats](./images/stat.svg)
-<figure><embed src="https://wakatime.com/share/@Mecrano/495b0d77-e826-46d1-a353-0a36326c8f4f.svg"></embed></figure>
+### 🔭 I’m currently working on
+<!--![Stats](./images/stat.svg)-->
+![Stats](https://wakatime.com/share/@Mecrano/495b0d77-e826-46d1-a353-0a36326c8f4f.svg)
 
 <!--
 **Mecrano/Mecrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

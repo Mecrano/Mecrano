@@ -52,7 +52,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Mecrano&theme=nord&column=6" />
 </div>
 
+<br />
+<br />
 
+<h1 align="center"> ⚡ My Repositories </h1>
 <!--
 **Mecrano/Mecrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
